@@ -1,0 +1,22 @@
+;;preFlashMaxFrameWaitLimitAF=40
+;;disableFocusIndication=1
+;;enableDualIFE=TRUE
+;;preFlashMaxFrameWaitLimitAWB=5
+;;fovcEnable=1
+;;outputFormat=0
+;;preFlashMaxFrameWaitLimitAF=30
+;;logVerboseMask=0x2
+;;logInfoMask=0x2
+;;logWarningMask=0x2
+;;systemLogEnable=TRUE
+;;overrideLogLevels=0xff
+;;dumpSensorEEPROMData=True
+;;enable3ADebugData=TRUE
+;;FDPreprocessing=GTM
+;;tintlessEnable=TRUE
+;;enableResourceManager=TRUE
+;;outputFormat=OutputFormatYUV420NV12
+;;
+;;add LENOVO CUSTOM change above
+forceHWMFFixedNumOfFrames=8
+maxHalRequests=8
