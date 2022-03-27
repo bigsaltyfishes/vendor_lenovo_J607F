@@ -2850,56 +2850,21 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libplatformconfig \
-    CACertService \
     CneApp \
     IWlanService \
     TimeService \
     com.qualcomm.qti.gpudrivers.lito.api30 \
-    ConfURIDialer \
-    ConferenceDialer \
-    DeviceStatisticsService \
-    DynamicDDSService \
-    NetworkSetting \
-    PerformanceMode \
-    QColor \
-    QTIDiagServices \
-    Qmmi \
     QtiTelephonyService \
-    SimSettings \
-    WAPPushManager \
-    WigigTetheringRRO \
-    atfwd \
-    colorservice \
-    com.qualcomm.qti.services.secureui \
     datastatusnotification \
     embms \
     imssettings \
-    remoteSimLockAuthentication \
-    remotesimlockservice \
     uceShimService \
-    uimgbaservice \
-    uimlpaservice \
-    uimremoteclient \
-    uimremoteserver \
-    workloadclassifier \
-    xdivert \
-    CarrierConfig \
-    CellBroadcastAppPlatform \
     DolbySound \
-    EmergencyInfo \
-    GoogleOneTimeInitializer \
-    GoogleServicesFramework \
-    QAS_DVC_MSP \
-    StorageManager \
     WfdService \
-    com.qualcomm.location \
-    com.qualcomm.qti.services.systemhelper \
     daxService \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    seccamservice \
-    xrvdservice \
     WfdCommon \
     tcmclient \
     ActivityExt \
