@@ -2850,6 +2850,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libplatformconfig \
+    CACertService \
     CneApp \
     IWlanService \
     TimeService \
