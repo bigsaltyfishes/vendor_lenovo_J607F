@@ -319,7 +319,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/J607F/proprietary/system_ext/lib/vendor.qti.hardware.display.composer@3.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.display.composer@3.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib/vendor.qti.hardware.dsp@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.dsp@1.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib/vendor.qti.hardware.fingerprint@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.fingerprint@1.0.so \
-    vendor/lenovo/J607F/proprietary/system_ext/lib/vendor.qti.hardware.fm@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.fm@1.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib/vendor.qti.hardware.iop@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.iop@2.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib/vendor.qti.hardware.mwqemadapter@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.mwqemadapter@1.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib/vendor.qti.hardware.perf@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.perf@2.0.so \
@@ -581,7 +580,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/J607F/proprietary/system_ext/lib64/vendor.qti.hardware.factory@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.factory@1.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib64/vendor.qti.hardware.factory@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.factory@1.1.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib64/vendor.qti.hardware.fingerprint@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.fingerprint@1.0.so \
-    vendor/lenovo/J607F/proprietary/system_ext/lib64/vendor.qti.hardware.fm@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.fm@1.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib64/vendor.qti.hardware.iop@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.iop@2.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib64/vendor.qti.hardware.mwqemadapter@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.mwqemadapter@1.0.so \
     vendor/lenovo/J607F/proprietary/system_ext/lib64/vendor.qti.hardware.perf@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.perf@2.0.so \
@@ -1651,7 +1649,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/J607F/proprietary/vendor/lib/libfactory.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfactory.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libfastcrc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcrc.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libfastcvdsp_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcvdsp_stub.so \
-    vendor/lenovo/J607F/proprietary/vendor/lib/libfastcvopt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcvopt.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libft2_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libft2_vendor.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libgarden.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgarden.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libgcs-calwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgcs-calwrapper.so \
@@ -1867,7 +1864,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/J607F/proprietary/vendor/lib/libsynx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsynx.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libsysmon_cdsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsysmon_cdsp_skel.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsystem_health_mon.so \
-    vendor/lenovo/J607F/proprietary/vendor/lib/libthermalclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthermalclient.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libthreadutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthreadutils.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtime_genoff.so \
     vendor/lenovo/J607F/proprietary/vendor/lib/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinycompress.so \
@@ -2424,7 +2420,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libexthwplugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexthwplugin.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libfactory.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfactory.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libfastcvdsp_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfastcvdsp_stub.so \
-    vendor/lenovo/J607F/proprietary/vendor/lib64/libfastcvopt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfastcvopt.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libft2_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libft2_vendor.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libgameoptfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgameoptfeature.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libgarden.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgarden.so \
@@ -2625,7 +2620,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libsynx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsynx.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libsysmon_cdsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsysmon_cdsp_skel.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsystem_health_mon.so \
-    vendor/lenovo/J607F/proprietary/vendor/lib64/libthermalclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthermalclient.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libthreadutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthreadutils.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtime_genoff.so \
     vendor/lenovo/J607F/proprietary/vendor/lib64/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinycompress.so \
@@ -2847,7 +2841,9 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/J607F/proprietary/vendor/lib64/vendor.qti.voiceprint@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.voiceprint@1.0.so
 
 PRODUCT_PACKAGES += \
-    libplatformconfig \
+    libfastcvopt \
+    libthermalclient \
+    vendor.qti.hardware.fm@1.0 \
     CACertService \
     CneApp \
     IWlanService \
