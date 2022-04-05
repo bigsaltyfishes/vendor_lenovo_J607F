@@ -1,3 +1,0 @@
-# add for shipmode
-on property:vendor.lenovotb.shipmode.on=1
-     write /sys/module/qpnp_power_on/parameters/ship_mode_en 1
