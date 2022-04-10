@@ -551,6 +551,13 @@ dex_import {
 }
 
 dex_import {
+	name: "vendor.qti.hardware.mwqemadapter-V1.0-java",
+	owner: "lenovo",
+	jars: ["proprietary/system_ext/framework/vendor.qti.hardware.mwqemadapter-V1.0-java.jar"],
+	system_ext_specific: true,
+}
+
+dex_import {
 	name: "vendor.qti.hardware.sensorscalibrate-V1.0-java",
 	owner: "lenovo",
 	jars: ["proprietary/system_ext/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar"],
