@@ -1667,7 +1667,6 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
-    TimeService \
     com.qualcomm.qti.gpudrivers.lito.api30 \
     PowerOffAlarm \
     DeviceInfo \
